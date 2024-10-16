@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> Eryktavares </title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+    
+    
+     
+    
+    <h1>Contando sobre minha vida <br>
+         de Eryk tavares
+    </h1>
+    
+    <h1><em>introdução </em> </h1>
+       <p>
+    <h3> não sei como isso vai funcionar mas só sei que
+      <br>
+      isso é pode ser muito pessoal pra mim</h3>
+
+    <h1><em>meus hobbies </em> </h1>    
+    <lu>
+      
+      <li>gosto de desenhar </li>
+      <li>estudo programação </li>
+      <li>amo jogar volei </li>
+      <li>gosto de assistir south parkli</li>
+    
+    </lu>
+    
+  <head>
+  <body>
+    <main>
+    </main>
+    <script src="sketch.js"></script>
+  </body>
+</html>
